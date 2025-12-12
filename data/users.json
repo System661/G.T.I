@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1",
+    "username": "special_user1",
+    "password": "special_password1",
+    "permission": "special",
+    "can_upgrade": true
+  },
+  {
+    "id": "2",
+    "username": "special_user2",
+    "password": "special_password2",
+    "permission": "special",
+    "can_upgrade": true
+  },
+  {
+    "id": "3",
+    "username": "ts_user1",
+    "password": "ts_password1",
+    "permission": "top_secret",
+    "can_upgrade": false
+  },
+  {
+    "id": "4",
+    "username": "ts_user2",
+    "password": "ts_password2",
+    "permission": "top_secret",
+    "can_upgrade": true
+  },
+  {
+    "id": "5",
+    "username": "ts_user3",
+    "password": "ts_password3",
+    "permission": "top_secret",
+    "can_upgrade": true
+  },
+  {
+    "id": "6",
+    "username": "c_user1",
+    "password": "c_password1",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "7",
+    "username": "c_user2",
+    "password": "c_password2",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "8",
+    "username": "c_user3",
+    "password": "c_password3",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "9",
+    "username": "c_user4",
+    "password": "c_password4",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "10",
+    "username": "c_user5",
+    "password": "c_password5",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "11",
+    "username": "c_user6",
+    "password": "c_password6",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "12",
+    "username": "c_user7",
+    "password": "c_password7",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "13",
+    "username": "c_user8",
+    "password": "c_password8",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "14",
+    "username": "c_user9",
+    "password": "c_password9",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "15",
+    "username": "c_user10",
+    "password": "c_password10",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "16",
+    "username": "c_user11",
+    "password": "c_password11",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "17",
+    "username": "c_user12",
+    "password": "c_password12",
+    "permission": "confidential",
+    "can_upgrade": false
+  },
+  {
+    "id": "18",
+    "username": "normal_user1",
+    "password": "normal_password1",
+    "permission": "normal",
+    "can_upgrade": false
+  },
+  {
+    "id": "19",
+    "username": "normal_user2",
+    "password": "normal_password2",
+    "permission": "normal",
+    "can_upgrade": false
+  },
+  {
+    "id": "20",
+    "username": "normal_user3",
+    "password": "normal_password3",
+    "permission": "normal",
+    "can_upgrade": false
+  },
+  {
+    "id": "21",
+    "username": "normal_user4",
+    "password": "normal_password4",
+    "permission": "normal",
+    "can_upgrade": false
+  },
+  {
+    "id": "22",
+    "username": "normal_user5",
+    "password": "normal_password5",
+    "permission": "normal",
+    "can_upgrade": false
+  },
+  {
+    "id": "23",
+    "username": "normal_user6",
+    "password": "normal_password6",
+    "permission": "normal",
+    "can_upgrade": false
+  },
+  {
+    "id": "24",
+    "username": "normal_user7",
+    "password": "normal_password7",
+    "permission": "normal",
+    "can_upgrade": false
+  },
+  {
+    "id": "25",
+    "username": "normal_user8",
+    "password": "normal_password8",
+    "permission": "normal",
+    "can_upgrade": false
+  },
+  {
+    "id": "26",
+    "username": "normal_user9",
+    "password": "normal_password9",
+    "permission": "normal",
+    "can_upgrade": false
+  }
+]

@@ -1,0 +1,1 @@
+web: python -c "import os; os.environ['PORT'] = '5000'; import app"

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "9d8b7475-e604-4859-850f-7450c49d5c8e",
+    "timestamp": "2025-12-05T19:36:34.774637",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "251a27a6-f6a9-4eaa-861c-6c7884536242",
+    "timestamp": "2025-12-05T19:36:47.210488",
+    "username": "special_user1",
+    "action": "查看文档",
+    "details": "查看文档: 普通通知.txt",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "9cb12408-8d2c-43e5-a1ae-4b185206d45e",
+    "timestamp": "2025-12-05T19:51:17.682321",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "5974c2e1-5e3f-4b1a-8793-9d77f0de8b1b",
+    "timestamp": "2025-12-05T19:51:31.796648",
+    "username": "special_user1",
+    "action": "删除文档",
+    "details": "删除文档: 普通通知.txt (ID: 1)",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "a74f1b15-775e-4d82-97a9-1ba1c5533e41",
+    "timestamp": "2025-12-05T19:51:33.661373",
+    "username": "special_user1",
+    "action": "删除文档",
+    "details": "删除文档: 部门会议纪要.docx (ID: 2)",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "832d272c-0d97-4b89-ba57-ed87ec542a16",
+    "timestamp": "2025-12-05T19:51:35.730866",
+    "username": "special_user1",
+    "action": "删除文档",
+    "details": "删除文档: 公司战略规划.pdf (ID: 3)",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "d9b344f6-419f-4d21-a8bf-3fa7a1f4e100",
+    "timestamp": "2025-12-05T19:51:45.105939",
+    "username": "special_user1",
+    "action": "添加文档",
+    "details": "添加文档: 111.docx, 权限: special",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "a67294c6-bf99-4649-a164-49d766f0057c",
+    "timestamp": "2025-12-05T19:51:51.959206",
+    "username": "special_user1",
+    "action": "查看文档",
+    "details": "查看文档: 国家安全级别文档.sec",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "adc67522-87db-4fb5-97c2-f06d70799e7f",
+    "timestamp": "2025-12-05T19:52:26.486313",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "7cd584d9-b5c6-495a-9f20-b7d1a3d0b2c4",
+    "timestamp": "2025-12-05T19:52:31.410361",
+    "username": "special_user1",
+    "action": "删除文档",
+    "details": "删除文档: 国家安全级别文档.sec (ID: 4)",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "57250b1d-2779-43aa-a414-85448a52fc4b",
+    "timestamp": "2025-12-05T19:52:33.148115",
+    "username": "special_user1",
+    "action": "删除文档",
+    "details": "删除文档: 技术研发白皮书.pdf (ID: 5)",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "71aa9511-f808-4091-919b-ba2d7b2b4977",
+    "timestamp": "2025-12-05T19:52:44.960652",
+    "username": "special_user1",
+    "action": "添加文档",
+    "details": "添加文档: 1234.txt, 权限: normal",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "a726830a-6f25-4140-9397-81048d155c64",
+    "timestamp": "2025-12-05T19:53:02.053348",
+    "username": "ts_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "57316c27-0ab7-4159-bf51-30c1e5f20090",
+    "timestamp": "2025-12-05T19:53:05.894763",
+    "username": "ts_user1",
+    "action": "删除文档",
+    "details": "删除文档: 1234.txt (ID: 712b6585-5d5a-4995-bb12-621d6edfb0fe)",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "2afc5512-0534-40a9-aa6b-9f5d5e308ad0",
+    "timestamp": "2025-12-05T19:53:40.185278",
+    "username": "normal_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "9640e5d2-182c-44c4-8e9f-94c4b3dca9ab",
+    "timestamp": "2025-12-05T20:21:53.631198",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "79d89e3e-4291-42a1-b8ea-50e5b4eef0b7",
+    "timestamp": "2025-12-05T20:21:57.618868",
+    "username": "special_user1",
+    "action": "查看文档",
+    "details": "查看文档: 111.docx",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "df79c591-7950-488e-97e9-6c008cbe07af",
+    "timestamp": "2025-12-05T20:22:16.777928",
+    "username": "special_user1",
+    "action": "紧急权限升级",
+    "details": "从 special 升级到 special",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "7dca3326-f951-46c3-9c15-6f16e6379d40",
+    "timestamp": "2025-12-06T19:19:38.185168",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "eaa2a51b-cc4f-4447-9000-3f19f9ddab87",
+    "timestamp": "2025-12-06T19:19:38.280731",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "26f6d2be-15b6-4469-833f-fee95a7abc98",
+    "timestamp": "2025-12-06T19:19:38.504100",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "2b5225eb-10cf-4b7e-923e-c7e5609829a7",
+    "timestamp": "2025-12-06T19:20:00.052391",
+    "username": "special_user1",
+    "action": "添加文档",
+    "details": "添加文档: 4, 权限: normal",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "77953e22-28c9-4e98-85a0-0b20171b148b",
+    "timestamp": "2025-12-06T19:20:02.424162",
+    "username": "special_user1",
+    "action": "查看文档",
+    "details": "查看文档: 4",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "b005e6d8-aac2-4743-b5ac-230ca1b84e62",
+    "timestamp": "2025-12-06T19:20:10.038843",
+    "username": "special_user1",
+    "action": "删除文档",
+    "details": "删除文档: 4 (ID: d2b591ba-7e0a-48dc-b6d7-518d4a88b291)",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "59c03635-3555-4e87-8c7d-baf3c573a31d",
+    "timestamp": "2025-12-06T19:20:29.357549",
+    "username": "special_user1",
+    "action": "权限变更",
+    "details": "将用户 ts_user1 从 top_secret 改为 special",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "73cf01fc-3b02-49cf-b3a0-8f9204ddd213",
+    "timestamp": "2025-12-06T19:20:32.196319",
+    "username": "special_user1",
+    "action": "权限变更",
+    "details": "将用户 ts_user1 从 special 改为 top_secret",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "594b18b4-92b6-4d4a-843f-b35c385cbf81",
+    "timestamp": "2025-12-12T19:23:13.295045",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "b1669c1d-bfc2-4fa9-8d9f-735184f0a7d5",
+    "timestamp": "2025-12-12T19:31:13.762782",
+    "username": "special_user1",
+    "action": "查看文档",
+    "details": "查看文档: 111.docx",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "9ad27fa6-5a90-4bf5-8a77-0f9a22c4471a",
+    "timestamp": "2025-12-12T19:42:59.968289",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "192.168.1.8"
+  },
+  {
+    "id": "0b27c2b0-52b5-45dc-a416-c8c47ed0611c",
+    "timestamp": "2025-12-12T19:44:42.854340",
+    "username": "normal_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "192.168.1.8"
+  },
+  {
+    "id": "78918c6b-1c5b-48f0-95ae-64e577a65b8e",
+    "timestamp": "2025-12-12T19:44:55.741690",
+    "username": "normal_user1",
+    "action": "紧急权限升级",
+    "details": "从 normal 升级到 special",
+    "ip": "192.168.1.8"
+  },
+  {
+    "id": "0a5f2ff7-671c-484a-9f5b-ddf0a5c9ee73",
+    "timestamp": "2025-12-12T19:45:23.426150",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "192.168.1.8"
+  },
+  {
+    "id": "d0b41a78-1195-4b87-9fa5-1c7f7f3222f6",
+    "timestamp": "2025-12-12T19:45:33.796866",
+    "username": "special_user1",
+    "action": "权限变更",
+    "details": "将用户 normal_user1 从 special 改为 normal",
+    "ip": "192.168.1.8"
+  },
+  {
+    "id": "2bd5600b-c197-4de0-ad67-5328d5897043",
+    "timestamp": "2025-12-12T20:19:40.710888",
+    "username": "special_user1",
+    "action": "用户登录",
+    "details": "成功登录系统",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "60f2338c-8d83-4a56-b38c-66cadd637061",
+    "timestamp": "2025-12-12T20:19:44.772294",
+    "username": "special_user1",
+    "action": "删除文档",
+    "details": "删除文档: 111.docx (ID: 9fb355e1-3070-4814-9809-ef354377c816)",
+    "ip": "127.0.0.1"
+  }
+]
